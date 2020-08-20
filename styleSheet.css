@@ -1,0 +1,106 @@
+/*table{
+	border-collapse: collapse;
+	align-items: left;
+	margin: 20px auto;
+}
+
+tr{ 
+  border-bottom: none;
+  border-width: 1px 0;
+}
+
+th{
+	text-align: center;
+}
+*/
+body{
+	background-color: lightblue;
+}
+
+#header{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+
+}
+
+#bttn1{
+	background: none;
+	font-size: 24px;
+	border:none;
+	color: #0D47A1;
+	margin: 15px 35px;
+	font-family: "Courier New", Courier, monospace;
+}
+
+#search{
+	float: right;
+	margin: 15px 35px;
+}
+
+#div2{
+	width: 40%;
+	margin: 20px auto;
+	font-family: "Courier New", Courier, monospace;
+	background-color: #16395F;
+	text-align: center;
+	color: white;
+	font-size: 28px;
+	border-radius: 25px;
+	padding: 1px;
+}
+
+#foot1{
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	border-top: 2px solid #000;
+	background-color: white;
+}
+
+#div3{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center; 
+	margin-bottom: 10px;
+	font-family: "Courier New", Courier, monospace;
+	color: white;
+	font-size: 28px;
+}
+
+#
+
+#border1{
+	border-radius: 10%;
+	width: 200px;
+	height: 500px;
+	padding:30px;
+	border: 2px solid black;
+	text-align: middle;
+	width: 25%;
+}
+
+#fl{
+	vertical-align: bottom;
+}
+
+#sub1{
+	width: 180px;
+	margin: 20px auto;
+	font-family: "Courier New", Courier, monospace;
+	background: #212F3D;
+	border:none;
+	color: #fff;
+	border-radius: 7px;
+}
+
+#img1{
+	border: 2px solid black;
+	width: 150x;
+	height: 125px;
+	text-align:center;
+}
+
