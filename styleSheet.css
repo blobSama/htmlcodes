@@ -18,7 +18,6 @@ body{
 	grid-template-areas:
 	"header header header"
 	"picture picture picture"
-	
 	"footer footer footer";
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-auto-flow: row;
