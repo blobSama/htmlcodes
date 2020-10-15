@@ -1,8 +1,9 @@
 table{
     grid-area: grid;
-    border-collapse: collapse;
+    border: 2px solid rgba(0, 0, 0, 0.582);
 	align-items: left;
-	margin: 20px auto;
+    margin: 20px auto;
+    border-width: 2px;
 }
 /*
 tr{ 
@@ -60,12 +61,15 @@ img {
     color: white;
     font-size: 28px;
     grid-area: title;
+    border-radius: 25px;
 }
 
 #foot1 {
     font-family: "Courier New", Courier, monospace;
     background-color: white;
     grid-area: footer;
+    text-align: center;
+    
 }
 
 #div3 {
